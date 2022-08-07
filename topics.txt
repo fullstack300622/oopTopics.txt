@@ -1,1 +1,4 @@
 https://www.w3schools.com/java/java_oop.asp
+
+//stack vs heap 
+https://www.youtube.com/watch?v=LTnp79Ke8FI
